@@ -36,7 +36,7 @@ colors: {
           dark: "#2f261c",
           secondary: "#663EA3",
           tertiary: "#75573a",
-          highlight: "#9c8368",
+          highlight: "#beab93",
           textHighlight: "#fff23688",
         },
         darkMode: {
@@ -47,7 +47,7 @@ colors: {
           dark: "rgb(220,199,179)",
           secondary: "#9969e0ff",
           tertiary: "#9b7a5cff",
-          highlight: "#5f4e3bff",
+          highlight: "#2f261c",
           textHighlight: "#b3aa0288",
         },
       },
