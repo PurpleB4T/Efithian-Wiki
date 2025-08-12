@@ -23,7 +23,7 @@ Choose to a point you can see within 60 feet of you. The spirit creates an aura 
 
 The spirit persists for 1 minute. Once you use this feature, you can’t use it again until you finish a short or long rest. The effect of the spirit’s aura depends on the type of spirit you summon from the options below.
 
-\pagebreak
+
 
 **Bear Spirit**. The bear spirit grants you and your allies its might and endurance. Each creature of your choice in the aura when the spirit appears gains temporary hit points equal to 5 + your druid level. In addition, you and your allies gain advantage on Strength checks and Strength saving throws while in the aura.
 

@@ -60,7 +60,7 @@ You start with the following equipment, in addition to the equipment granted by 
 * (a) a dungeoneer's pack or (b) an explorer's pack
 * A longbow and a quiver of 20 arrows
 
-\pagebreak
+
 
 ### Features
 
@@ -114,7 +114,7 @@ Your walking speed increases by 5, and you gain
 a climbing speed and a swimming speed equal to
 your walking speed.
 
-\columnbreak
+
 
 ##### TIRELESS (10th Level)
 
@@ -173,7 +173,7 @@ Wisdom is your spellcasting ability for your ranger spells, since your magic dra
 ##### Prepared Spells vs. Known Spells
  As a Spellcaster with prepared spells, the Ranger can ignore the "Spells Known" column of the Ranger table in the Player's Handbook.
  
-\pagebreak
+
 
 ### ADDITIONAL RANGER SPELLS
 
@@ -237,7 +237,7 @@ Wisdom is your spellcasting ability for them. Whenever you gain a level in this 
 one of these cantrips with another cantrip from the
 druid spell list
 
-\columnbreak
+
 
 #### DUELING
  When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
@@ -288,7 +288,7 @@ long rest.
 ### Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
-\pagebreak
+
 
 ### MARTIAL VERSATILITY
 
@@ -456,7 +456,7 @@ bludgeoning damage (your choice), and the target is grappled
 (escape DC equals your spell save DC). Until this grapple ends,
 the beast can't use this attack on another target. 
 
-\pagebreak
+
 
 ---
 > ## Beast of  the Sky

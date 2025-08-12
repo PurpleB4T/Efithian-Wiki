@@ -45,7 +45,7 @@ The damage increases by 1d4 when you reach 5th level (2d4), 11th level (3d4), an
 As a bonus action, you can produce a combination that will provide potent magical healing. Immediately after creating the draught, you can use your action to consume it or give it a creature within 5 feet. An adjacent creature can use their reaction to drink it if given it. If an adjacent creature is incapacitated and unconscious, you can use your action to feed it to them. A creature who drinks this draught regains 1d8 health. A creature can benefit from a number of these healing draughts equal to their constitution modifier (minimum 1), after which they provide no additional benefit until they complete a long rest.
 The healing increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 
-\pagebreak
+
 ### Alchemist Spells (Unchanged)
 *(3rd level feature)*
 
@@ -78,15 +78,16 @@ Spell Level |Infusion Spells
 
 When you cast the spell in this way, the spell does not take effect immediately, but is infused into the potion. If the spell grants an effect or restores health, the creature will gain the effect of the spell when the potion is consumed.
 
-
+**You can only have 3 infused cure wounds potions at the time**
+(meaning the party can only have 3 of these potions)
 
 #### Team Potions.
-You can team up with other spellcasters to create potions of spells not listed in the previous table. The following rules apply for this:
+You can team up with other spell casters to create potions of spells not listed in the previous table. The following rules apply for this:
 
 * You can easily bottle a spell of a level up to your highest spell level. Infusing a potion with a higher level spell than available requires a successful check using the Alchemists tools of 20 + the levels above
 *eg. bottling Haste (as a 3rd level spell) at an 8th level Alchemist requires a check of 21*
 * Spells can only be cast at base level.
-* Extra modifiers of spellcaster do not apply.
+* Extra modifiers of spell caster do not apply.
 * Cast spells have to target only one creature or an area. *So Scorching Ray is not applicable while Witch Bolt or Fireball are.*
 * Hitting an enemy creature with an attack-roll based spell in the potion still requires a normal attack against its AC. The DC for a saving throw is the Alchemists DC. While the attack roll is handled as throwing the potion (meaning a Dexterity based attack )
 * Any material components need to be used in creation (specific materials are consumed; spells with specific material components, that can't be ignored using a focus and are not consumed aren't applicable)
@@ -109,16 +110,16 @@ Starting at 5th level, when you deal damage or restore health with an instant re
 Starting at 9th level, you can incorporate restorative reagents into some of your works:
 
 - Whenever a creature **drinks an alchemical infusion** you created, the creature gains temporary hit points equal to 2d6 + your Intelligence modifier (minimum of 1 temporary hit point).
-- You can cast Lesser Restoration without expending a spell slot and without preparing the spell, provided you use alchemist's supplies as the spellcasting focus. You can do so a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a long rest.
+- You can cast Lesser Restoration without expending a spell slot and without preparing the spell, provided you use alchemist's supplies as the spell casting focus. You can do so a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a long rest.
  
 
 ### Chemical Mastery (Unchanged)
 By 15th level, you have been exposed to so many chemicals that they pose little risk to you, and you can use them to quickly end certain ailments:
 
 - You gain resistance to acid damage and poison damage, and you are now immune to the poisoned condition.
-- You can cast Greater Restoration and Heal without expending a spell slot, without preparing the spell, and without providing the material component, provided you use alchemist’s supplies as the spellcasting focus. Once you cast either spell with this feature, you can't cast that spell with it again until you finish a long rest.
+- You can cast Greater Restoration and Heal without expending a spell slot, without preparing the spell, and without providing the material component, provided you use alchemist’s supplies as the spell casting focus. Once you cast either spell with this feature, you can't cast that spell with it again until you finish a long rest.
 
-\pagebreak
+
 ### Added Infusions:
 A few Infusion are added for Alchemists. They count against the number of your known infusions.
 #### Aroma Therapies.
@@ -172,7 +173,7 @@ Spell Level | Infusion Spells
 2nd |enlarge/reduce
 3rd |haste
 
-\pagebreak
+
 #### Secrets of Fire.
 You learn the secrets of infusing fire into your Alchemical Infusions. You can add the following spells to your list of available spells for alchemical infusions:
 

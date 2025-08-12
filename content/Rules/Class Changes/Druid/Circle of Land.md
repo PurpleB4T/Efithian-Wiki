@@ -19,7 +19,7 @@ At 2nd level, you are infused with the ability to cast certain spells based on y
 
 While you are attuned to that environment you gain access to the spells in the corresponding column of the Environment Spells table below. They count as druid spells for you and you always have them prepared, but they don't count against the total number of druid spells you can prepare each day.
 
-\pagebreak
+
 
 ### Nature's Ward
 *(Re-written 10th level feature)*

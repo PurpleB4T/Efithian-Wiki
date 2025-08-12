@@ -22,7 +22,7 @@ For example, at 2nd level you can transform into any beast that has a challenge 
 
 Starting at 6th level, you can transform into a beast with a challenge rating as high as your druid level divided by 3, rounded down.
 
-\columnbreak
+
 
 ### Greater Wild Shape
 *(Replaces 6th level Primal Strike feature)*

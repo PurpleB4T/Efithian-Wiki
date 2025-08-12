@@ -18,7 +18,7 @@ When you join this circle at 2nd level, your connection to the Feywild grants yo
 
 Once you gain access to one of these spells, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you gain access to a spell that doesn't appear on the Druid Spell List, the spell is nonetheless a druid spell for you.
 
-\columnbreak
+
 
 | Druid Level  | Spells |
 |:---:|:-----------:|
