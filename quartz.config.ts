@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "purpleb4t.github.io/Efithian-Wiki",
+    baseUrl: "purpleb4t.github.io/Efithian-Wiki/",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
