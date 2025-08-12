@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "Efith Wiki",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -40,10 +40,10 @@ const config: QuartzConfig = {
           textHighlight: "#fff23688",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
+          light: "#beab93",
+          lightgray: "#806647",
+          gray: "#75573a",
+          darkgray: "#2f261c",
           dark: "#ebebec",
           secondary: "#7b97aa",
           tertiary: "#84a59d",
