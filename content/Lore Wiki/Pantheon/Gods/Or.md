@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":" The Genesis Father of Light","created":"2024-08-05T10:08:32.000+02:00","modified":"2025-08-12T18:59:24.346+02:00","tags":["gods","creator-deity","#Character"],"cssclasses":""}
+{"publish":true,"aliases":" The Genesis Father of Light","created":"2024-08-05T10:08:32.000+02:00","modified":"2025-08-12T20:44:56.473+02:00","tags":["gods","creator-deity","#Character"],"cssclasses":""}
 ---
 
 
@@ -121,7 +121,7 @@ From her flesh the second unicorn was born. It is believed a part of her is watc
 She is worshipped as a symbol of purity and as a source of guidance in temptation. 
 #### Sins
 
->[!info]- List of Sins
+>[!seealso]  List of Sins
 Abominable - that which is exceptionally loathsome, hateful, sinful, wicked or vile (the likes of satyrs, mixing of pure with the impure etc.) 
 Addiction 
 Adultery 
