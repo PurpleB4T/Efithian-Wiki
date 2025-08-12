@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":" The Night Lady Euridice","created":"2024-08-05T10:12:58.000+02:00","modified":"2025-08-12T18:22:51.723+02:00","tags":["gods","creator-deity"],"cssclasses":""}
+{"publish":true,"aliases":" The Night Lady Euridice","created":"2024-08-05T10:12:58.000+02:00","modified":"2025-08-12T18:59:09.084+02:00","tags":["gods","creator-deity"],"cssclasses":""}
 ---
 
 

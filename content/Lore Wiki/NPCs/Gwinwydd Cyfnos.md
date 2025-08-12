@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":" Twilight Vine","created":"2024-06-02T13:22:22.000+02:00","modified":"2025-08-12T18:22:51.714+02:00","tags":["NPC","feywild","druid"],"cssclasses":""}
+{"publish":true,"aliases":" Twilight Vine","created":"2024-06-02T13:22:22.000+02:00","modified":"2025-08-12T18:58:50.127+02:00","tags":["NPC","feywild","druid"],"cssclasses":""}
 ---
 
 > [!infobox]

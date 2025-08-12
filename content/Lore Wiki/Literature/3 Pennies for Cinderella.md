@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2024-06-04T09:18:42.000+02:00","modified":"2025-08-12T18:04:46.673+02:00","tags":["#Literature"],"cssclasses":""}
+{"publish":true,"created":"2024-06-04T09:18:42.000+02:00","modified":"2025-08-12T18:58:08.412+02:00","tags":["#Literature"],"cssclasses":""}
 ---
 
 
@@ -18,7 +18,7 @@
 >> **Quick Notes** |  `INPUT[textArea:quicknote]`
 >> **Owner** | `INPUT[inlineListSuggester(optionQuery(#Character AND !"z_Templates"), useLinks(partial)):holder]` |
 
-# 3 Pennies for Cinderella **by** `VIEW[{holder}][link]`
+# 3 Pennies for Cinderella **by** [[05. Eos/People/Ares Philemon of Maplevine\|James Font]]
 https://de.wikipedia.org/wiki/Die_Dreigroschenoper
 
 > [!kirk|info] Prompt (Remove me)

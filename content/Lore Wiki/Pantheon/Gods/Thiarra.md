@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":" The Eye of the Storm","created":"2025-03-13T10:04:43.907+01:00","modified":"2025-08-12T18:22:51.715+02:00","tags":["gods","#Character"],"cssclasses":""}
+{"publish":true,"aliases":" The Eye of the Storm","created":"2025-03-13T10:04:43.907+01:00","modified":"2025-08-12T18:59:34.279+02:00","tags":["gods","#Character"],"cssclasses":""}
 ---
 
 

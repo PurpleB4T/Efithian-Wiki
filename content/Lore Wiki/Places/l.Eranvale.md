@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"G o l d e n F l a m e","title":"Eranvale","created":"2024-06-02T14:23:42.000+02:00","modified":"2025-08-12T18:22:51.715+02:00","tags":["Eranvale","lore-wiki","Country"],"cssclasses":""}
+{"publish":true,"aliases":"G o l d e n F l a m e","title":"Eranvale","created":"2024-06-02T14:23:42.000+02:00","modified":"2025-08-12T19:00:29.323+02:00","tags":["Eranvale","lore-wiki","Country"],"cssclasses":""}
 ---
 
 # **l.Eranvale** (test)

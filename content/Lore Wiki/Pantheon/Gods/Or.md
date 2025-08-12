@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":" The Genesis Father of Light","created":"2024-08-05T10:08:32.000+02:00","modified":"2025-08-12T18:22:51.723+02:00","tags":["gods","creator-deity","#Character"],"cssclasses":""}
+{"publish":true,"aliases":" The Genesis Father of Light","created":"2024-08-05T10:08:32.000+02:00","modified":"2025-08-12T18:59:24.346+02:00","tags":["gods","creator-deity","#Character"],"cssclasses":""}
 ---
 
 

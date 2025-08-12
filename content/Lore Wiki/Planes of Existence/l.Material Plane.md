@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Material Plane","created":"2024-06-02T13:54:18.000+02:00","modified":"2025-08-12T18:22:51.715+02:00","tags":["plane","material plane"],"cssclasses":""}
+{"publish":true,"title":"Material Plane","created":"2024-06-02T13:54:18.000+02:00","modified":"2025-08-12T19:00:39.573+02:00","tags":["plane","material plane"],"cssclasses":""}
 ---
 
 >[!infobox]

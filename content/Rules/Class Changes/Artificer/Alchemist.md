@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2024-03-24T17:03:40.000+01:00","modified":"2025-08-12T18:22:51.713+02:00","tags":["class","artificer","subclass"],"cssclasses":""}
+{"publish":true,"created":"2024-03-24T17:03:40.000+01:00","modified":"2025-08-12T19:00:53.240+02:00","tags":["class","artificer","subclass"],"cssclasses":""}
 ---
 
 

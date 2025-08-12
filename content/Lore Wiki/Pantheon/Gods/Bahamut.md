@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":" The Justice Bringer Draco Paladin","created":"2025-03-30T07:18:51.842+02:00","modified":"2025-08-12T18:22:51.715+02:00","tags":["gods","#Character","#Draconic-Pantheon"],"cssclasses":""}
+{"publish":true,"aliases":" The Justice Bringer Draco Paladin","created":"2025-03-30T07:18:51.842+02:00","modified":"2025-08-12T18:59:00.126+02:00","tags":["gods","#Character","#Draconic-Pantheon"],"cssclasses":""}
 ---
 
 

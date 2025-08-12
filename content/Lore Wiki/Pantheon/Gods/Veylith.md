@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":" The Shapeless God","created":"2025-04-02T11:40:38.891+02:00","modified":"2025-08-12T18:22:51.715+02:00","tags":["gods","#Character"],"cssclasses":""}
+{"publish":true,"aliases":" The Shapeless God","created":"2025-04-02T11:40:38.891+02:00","modified":"2025-08-12T18:59:41.588+02:00","tags":["gods","#Character"],"cssclasses":""}
 ---
 
 

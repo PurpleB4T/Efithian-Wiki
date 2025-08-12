@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2024-06-04T08:39:56.000+02:00","modified":"2025-08-12T18:22:51.723+02:00","tags":["#Literature"],"cssclasses":""}
+{"publish":true,"created":"2024-06-04T08:39:56.000+02:00","modified":"2025-08-12T18:58:46.323+02:00","tags":["#Literature"],"cssclasses":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-04-02T17:21:46.982+02:00","modified":"2025-08-12T18:22:51.715+02:00","tags":["gods"],"cssclasses":""}
+{"publish":true,"created":"2025-04-02T17:21:46.982+02:00","modified":"2025-08-12T18:59:04.543+02:00","tags":["gods"],"cssclasses":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2024-08-05T08:36:35.000+02:00","modified":"2025-08-12T18:22:51.715+02:00","tags":["god"],"cssclasses":""}
+{"publish":true,"created":"2024-08-05T08:36:35.000+02:00","modified":"2025-08-12T18:59:45.468+02:00","tags":["god"],"cssclasses":""}
 ---
 
 # Efithian Pantheon

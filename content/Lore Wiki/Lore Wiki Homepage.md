@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":" Lore Wiki","created":"2024-03-24T15:53:56.000+01:00","modified":"2025-08-12T18:22:51.714+02:00","cssclasses":""}
+{"publish":true,"aliases":" Lore Wiki","created":"2024-03-24T15:53:56.000+01:00","modified":"2025-08-12T19:00:47.814+02:00","cssclasses":""}
 ---
 
 # Introduction

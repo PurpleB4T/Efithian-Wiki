@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Slut Theory and Slut Praxis Applied Slut Theory (AST) Applied Slutting","created":"2024-06-04T10:00:25.000+02:00","modified":"2025-08-12T18:22:51.723+02:00","tags":["#Literature"],"cssclasses":""}
+{"publish":true,"aliases":"Slut Theory and Slut Praxis Applied Slut Theory (AST) Applied Slutting","created":"2024-06-04T10:00:25.000+02:00","modified":"2025-08-12T18:58:42.188+02:00","tags":["#Literature"],"cssclasses":""}
 ---
 
 
@@ -20,7 +20,7 @@
 >>  **Languages** |   `INPUT[Language][inlineListSuggester:language]` |
 >> **Genre** |   `INPUT[Genre][inlineListSuggester:Genre]` |
 
-# *Slut 101 - the Ins and Outs of being a successful Slut* **by** a professional Slut
+# 0*Slut 101 - the Ins and Outs of being a successful Slut* **by** a professional Slut
 - the book was published in the year 1859 under an anonymous author tile by a publisher in Eranvale mostly known for publishing rather daring romance novels 
 	- the author simply identified themselves as [[05. Eos/People/Eos Asclepias of Chrysanthy\|a professional Slut]].
 ## Book summary

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":" The one who failed","created":"2025-04-01T14:47:54.796+02:00","modified":"2025-08-12T18:22:51.715+02:00","tags":["gods","#Character"],"cssclasses":""}
+{"publish":true,"aliases":" The one who failed","created":"2025-04-01T14:47:54.796+02:00","modified":"2025-08-12T18:59:31.162+02:00","tags":["gods","#Character"],"cssclasses":""}
 ---
 
 

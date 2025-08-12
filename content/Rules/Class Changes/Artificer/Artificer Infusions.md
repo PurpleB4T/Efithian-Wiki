@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2024-03-24T16:01:12.000+01:00","modified":"2025-08-12T18:22:51.713+02:00","tags":["class","artificer"],"cssclasses":""}
+{"publish":true,"created":"2024-03-24T16:01:12.000+01:00","modified":"2025-08-12T19:01:03.868+02:00","tags":["class","artificer"],"cssclasses":""}
 ---
 
 [[Rules/Class Changes/Artificer/Artificer\|Back to Artificer]]

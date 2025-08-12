@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2024-06-04T09:12:57.000+02:00","modified":"2025-08-12T18:06:17.143+02:00","tags":["#Literature"],"cssclasses":""}
+{"publish":true,"created":"2024-06-04T09:12:57.000+02:00","modified":"2025-08-12T18:58:35.389+02:00","tags":["#Literature"],"cssclasses":""}
 ---
 
 
@@ -18,7 +18,7 @@
 >> **Quick Notes** |  `INPUT[textArea:quicknote]`
 >> **Owner** | `INPUT[inlineListSuggester(optionQuery(#Character AND !"z_Templates"), useLinks(partial)):holder]` |
 
-# Girth and Bridle **by** `VIEW[{holder}][link]`
+# Girth and Bridle **by** [[03. Someshots/Saving Wenzin/Player Characters/Minimus Braveheart of Heartwood\|Rueben Cockburn]]
 
 > [!kirk|info] Prompt (Remove me)
 > Provide an overview of the varied contents enclosed within this book. Detail the chapters, sections, or segments, each exploring distinct themes, topics, or narratives. Describe the depth and diversity found within the book's contents, highlighting the progression of ideas or stories throughout its pages. Furthermore, identify any supplementary materials, illustrations, or special features that enhance the reader's engagement.
