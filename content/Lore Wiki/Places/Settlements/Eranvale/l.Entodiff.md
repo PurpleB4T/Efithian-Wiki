@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Entodiff","created":"2024-06-02T14:13:37.000+02:00","modified":"2025-08-14T08:50:40.142+02:00","tags":["Settlement","city","Entodiff","lore-wiki","Eranvale"],"cssclasses":""}
+{"publish":true,"title":"Entodiff","created":"2024-06-02T14:13:37.000+02:00","modified":"2025-08-14T12:48:37.875+02:00","tags":["Settlement","city","Entodiff","lore-wiki","Eranvale"],"cssclasses":""}
 ---
 
 
@@ -55,18 +55,65 @@ Orcs, half-orcs, any goblinoids and descendants of drow and drow themselves are 
 Drow and half-drow men are seen as week and meak, having their masculinity ridiculed. The women are seen as brutish.
 
 ## Locations
-### Free Docks
-### Western Docks
+Entodiff has no proper religious district. 
+### Old Town
+- located in the city centre
+- richest area
+- some temples, like the temple to the creator deities and the temple to Bahamut
+- upper class residential area
+- location of the Citadel, Cotton Hill, Fenrise Gardens and the Entodiff University  
+
+#### Entodiff University
+
+### Cotton Hill
+- open and wilder park, in contrast to Fenrise Gardens
+	- "english" style
+- partially accessible to the public
+
+### The Citadel
+- home to the government
+
+### Fenrise Gardens
+- home to greenhouses and some cafés
+	- greenhouses to document and preserve local flora (by the botany sector of the university)
+
+### Clear Square
+- upper  and middle class residential areas 
+- some temples
+- taverns, ins and shops can be found there
 
 ### The Chicken Market
-### Cotton Hill
-### Fenrise Gardens
-### Old Town
+- central market of Entodiff
+- selling both local and imported goods
+
+### Western Docks
+- trade hub, main doc used for import and export
+- large storage facilities
+- local fish market
+
+### Stonebark Mile
+- middle and lower class residential area 
+- mostly workers working at the Free Docks 
+
+### Free Docks
+- shipwrights and ship material suppliers
+- some import and export from here as well
+
+### Stone Heath
+- farmers and others working outside of the city
+
 ### Spirit Docks
-### Great Pass
-### Pearl Arch
-### Clear Square
+- 
 
 ### West Slums
-### Stone Heath
-### Stonebark Mile
+- poorest area
+- most Tielfings of the city live there
+
+### Great Pass
+- Road leading into the main city
+### Pearl Arch
+
+
+
+
+

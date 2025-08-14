@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":" The Genesis Father of Light","created":"2024-08-05T10:08:32.000+02:00","modified":"2025-08-12T20:47:55.996+02:00","tags":["gods","creator-deity","#Character"],"cssclasses":""}
+{"publish":true,"aliases":" The Genesis Father of Light","created":"2024-08-05T10:08:32.000+02:00","modified":"2025-08-14T11:58:56.247+02:00","tags":["gods","creator-deity","#Character"],"cssclasses":""}
 ---
 
 
@@ -122,106 +122,106 @@ She is worshipped as a symbol of purity and as a source of guidance in temptatio
 #### Sins
 
 >[!hint]-  List of Sins
-Abominable - that which is exceptionally loathsome, hateful, sinful, wicked or vile (the likes of satyrs, mixing of pure with the impure etc.) 
-Addiction 
-Adultery 
-Anxiety 
-Apathy 
-Argumentative 
-Bigotry 
-Backbiters 
-Bitterness
-Blasphemy 
-Boasters
-Calling people a fool
-Cheating
-Chronic lateness 
-Coarse joking 
-Covenant breakers
-Covetousness 
-Criticism 
-Debate
-Deceit 
-Depression 
-Despiteful
-Defilers 
-Disobedient
-Dissension 
-Divorce (except for sexual immorality)
-Drunkenness 
-Emulations (ambition or endeavor to equal or excel others) 
-Envy 
-Evil Thoughts 
-Fearful 
-Foolish Talk 
-Fornication 
-Greed
-Gluttony
-Haters of God
-Hatred
-Heresies 
-Homosexuality 
-Hypocrisy 
-Idolatry
-Immorality 
-Implacable (cannot be calmed)
-Inventors of evil things 
-Jealousy 
-Lasciviousness (unbridled lust, shamelessness)
-Lawless 
-Lust 
-Lying 
-Maliciousness
-Ungodly
-Malignity (disposition to do evil, malice) 
-Materialism
-Murder
-Negativism 
-Neglect God’s Word 
-Neglect Prayer 
-No Concern for the Lost
-No Faith 
-No trust in God 
-Non-repentance 
-Not honoring your father and mother 
-Not loving your neighbor as yourself 
-Occult involvement 
-Passivity 
-Pornography 
-Prejudice
-Pride 
-Perjuring (willfully making a false statement)
-Procrastination 
-Profanity
-Quenching the Holy Spirit 
-Rebellion to authority 
-Resentment 
-Revellings (to revel in luxury, wild party)
-Seditions (violence against lawful civil authority)
-Selfishness 
-Slander 
-Sloth 
-Speaking Obscenities 
-Stealing 
-Strife 
-Unbelieving 
-Uncleanness 
-Unforgiving 
-Unmerciful 
-Unrighteousness 
-Unholy 
-Vanity 
-Variance 
-Whisperers/Gossipy 
-Wickedness 
-Witchcraft 
-Without natural affection 
-Without understanding
-Whoremongers (Greek - sexual immorality)
-Worry
-Workaholic 
-Wrath
-Writt
+>Abominable - that which is exceptionally loathsome, hateful, sinful, wicked or vile (the likes of satyrs, mixing of pure with the impure etc.) 
+>Addiction 
+>Adultery 
+>Anxiety 
+>Apathy 
+>Argumentative 
+>Bigotry 
+>Backbiters 
+>Bitterness
+>Blasphemy 
+>Boasters
+>Calling people a fool
+>Cheating
+>Chronic lateness 
+>Coarse joking 
+>Covenant breakers
+>Covetousness 
+>Criticism 
+>Debate
+>Deceit 
+>Depression 
+>Despiteful
+>Defilers 
+>Disobedient
+>Dissension 
+>Divorce (except for sexual immorality)
+>Drunkenness 
+>Emulations (ambition or endeavor to equal or excel others) 
+>Envy 
+>Evil Thoughts 
+>Fearful 
+>Foolish Talk 
+>Fornication 
+>Greed
+>Gluttony
+>Haters of God
+>Hatred
+>Heresies 
+>Homosexuality 
+>Hypocrisy 
+>Idolatry
+>Immorality 
+>Implacable (cannot be calmed)
+>Inventors of evil things 
+>Jealousy 
+>Lasciviousness (unbridled lust, shamelessness)
+>Lawless 
+>Lust 
+>Lying 
+>Maliciousness
+>Ungodly
+>Malignity (disposition to do evil, malice) 
+>Materialism
+>Murder
+>Negativism 
+>Neglect God’s Word 
+>Neglect Prayer 
+>No Concern for the Lost
+>No Faith 
+>No trust in God 
+>Non-repentance 
+>Not honoring your father and mother 
+>Not loving your neighbor as yourself 
+>Occult involvement 
+>Passivity 
+>Pornography 
+>Prejudice
+>Pride 
+>Perjuring (willfully making a false statement)
+>Procrastination 
+>Profanity
+>Quenching the Holy Spirit 
+>Rebellion to authority 
+>Resentment 
+>Revellings (to revel in luxury, wild party)
+>Seditions (violence against lawful civil authority)
+>Selfishness 
+>Slander 
+>Sloth 
+>Speaking Obscenities 
+>Stealing 
+>Strife 
+>Unbelieving 
+>Uncleanness 
+>Unforgiving 
+>Unmerciful 
+>Unrighteousness 
+>Unholy 
+>Vanity 
+>Variance 
+>Whisperers/Gossipy 
+>Wickedness 
+>Witchcraft 
+>Without natural affection 
+>Without understanding
+>Whoremongers (Greek - sexual immorality)
+>Worry
+>Workaholic 
+>Wrath
+>Writt
 
 Punishment ranges from repentance and community work all the way to flogging, taking of hands and stoning depending on how severe the sin committed was. 
 #### Rites
