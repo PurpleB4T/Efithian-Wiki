@@ -1,9 +1,9 @@
 ---
-{"publish":true,"aliases":" Twilight Vine","created":"2024-06-02T13:22:22.000+02:00","modified":"2025-08-12T18:58:50.127+02:00","tags":["NPC","feywild","druid"],"cssclasses":""}
+{"publish":true,"aliases":" Twilight Vine","created":"2024-06-02T13:22:22.000+02:00","modified":"2025-08-14T10:36:53.337+02:00","tags":["NPC","feywild","druid"],"cssclasses":""}
 ---
 
 > [!infobox]
-> # Gwinwydd Cyfnos (`=this.pronouns`)
+> # Gwinwydd Cyfnos (he/him)
 > ![[z_Assets/IMG_CD97F1871419-1.jpeg]]
 > ###### Name
 > **Full Name**:  unknown 
@@ -28,12 +28,14 @@
 > **Current Location** | [[1. Eranvale Campaign/Locations/Settlements/Chrysanthy Clan\|Chrysanthy Clan]] |> 
 
 > [!metadata|literature]- Published Works
-> ```dataview
-> TABLE join(aliases, ", ") AS Aliases, quicknote AS Notes
-> FROM #Literature 
-> WHERE econtains(author, this.file.link)
-> SORT file.name ASC
+>  | File                                                                                                        | Aliases               | Notes                                                                                              |
+> | ----------------------------------------------------------------------------------------------------------- | --------------------- | -------------------------------------------------------------------------------------------------- |
+> | [[Lore Wiki/Literature/A guide to the Flora of Eranvale\|A guide to the Flora of Eranvale]] | The Flora of Eranvale | The book details the various plants which can be found in all mirror planes of the Eranvale area.  |
+> 
+> 
+
 # History
+TBD
 
 > [!infobox]
 > ###### Rules Info
@@ -41,4 +43,4 @@
 > ---|---|
 > Alignment | neutral |
 > Class | Druid |
-> Character Role | `=this.character-role` |
+> Character Role | Head Druid in the Coedwig Fawr |
