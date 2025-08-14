@@ -85,7 +85,7 @@ At 17th level, you gain resistance to bludgeoning, piercing, and slashing damage
 Additionally, when a creature other than yourself gains the benefit of your guided strike feature, they deal an additional 2d8 radiant damage if they hit.
 
 
-\pagebreak
+
 
 <div class='footnote'><p><a href="#toc">back to the top</a></p></div>
 

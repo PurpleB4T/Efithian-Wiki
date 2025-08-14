@@ -12,7 +12,7 @@
 * **Superior Hunter's Defense:** Unchanged
  
 
-\pagebreak
+
 
 ### Hunter Magic
 *(Improved 3rd, 5th, 9th, 13th, 17th level feature)*

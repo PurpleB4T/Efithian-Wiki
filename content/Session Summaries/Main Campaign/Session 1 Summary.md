@@ -12,9 +12,9 @@
 ~~<- previous session~~ | [[index\|Back Home]] |  [[Session Summaries/Main Campaign/Session 2 Summary\|next session]] ->
 
 >[!info]
-**Current Location:** [[1. Eranvale Campaign/Locations/Settlements/Illo Anore\|Illo Anore]]
-**In Game Date:** 15.05.1864 - 16.05.1864
-**Session Date:** 28.08.2022
+> **Current Location:** [[1. Eranvale Campaign/Locations/Settlements/Illo Anore\|Illo Anore]]
+> **In Game Date:** 15.05.1864 - 16.05.1864
+> **Session Date:** 28.08.2022
 
 ## Summary
 - Dominique and Astra meet

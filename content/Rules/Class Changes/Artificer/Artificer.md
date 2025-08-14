@@ -53,7 +53,7 @@ You start with the following equipment, in addition to the equipment granted by 
 **Optional Rule:** *Firearm Proficiency:*
 The secrets of gunpowder weapons have been discovered in various corners of the D&D multiverse. If your Dungeon Master uses the rules on firearms in the Dungeon Master's Guide and your artificer has been exposed to the operation of such weapons, your artificer is proficient with them.
  
-\pagebreak
+
 
 ### Magical Tinkering
 At **1st level**, you've learned how to invest a spark of magic into mundane objects. To use this ability, you must have thieves' tools or artisan's tools in hand. You then touch a **Tiny nonmagical object** as an **action** and give it one of the following magical properties of your choice:
@@ -79,7 +79,7 @@ At 1st level, you know two cantrips of your choice from the artificer spell list
 
 When you gain a level in this class, you **can replace one of the artificer cantrips** you know with another cantrip from the artificer spell list.
 
-\columnbreak
+
 
 ### Preparing and Casting Spells
 The Artificer table shows how many spell slots you have to cast your artificer spells. To cast one of your artificer spells of 1st level or higher, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
@@ -140,7 +140,7 @@ At 7th level, you've gained the ability to come up with solutions under pressure
 
 You can use this feature a number of times equal to your Intelligence modifier (minimum of once). You regain all expended uses when you finish a long rest.
 
-\columnbreak
+
 #### Magic Item Adept
 *(10th level feature)*
 
@@ -172,5 +172,10 @@ You gain a +1 bonus to all saving throws per magic item you are currently attune
 If you're reduced to 0 hit points but not killed out-right, you can use your reaction to end one of your artificer infusions, causing you to drop to 1 hit point instead of 0.
 
 <h2 id="Alchemist"> Alchemist </h2>
+[[Alchemist]]
 
+# Subclasses
 
+| File                                                                                                   |
+| ------------------------------------------------------------------------------------------------------ |
+| [[Rules/Class Changes/Artificer/Alchemist\|Alchemist]]             |

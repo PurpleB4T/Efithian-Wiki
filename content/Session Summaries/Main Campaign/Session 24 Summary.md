@@ -8,9 +8,9 @@
 previous session | [[index\|Back Home]] |  next session 
 
 >[!info]
-**Current Location:** [[1. Eranvale Campaign/Locations/Settlements/Astrakhan\|Astrakhan]]
-**In Game Date:** 28.05.1864
-**Session Date:** 02.03.2023
+> **Current Location:** [[1. Eranvale Campaign/Locations/Settlements/Astrakhan\|Astrakhan]]
+> **In Game Date:** 28.05.1864
+> **Session Date:** 02.03.2023
 
 >[!summary]- Previous Session
 

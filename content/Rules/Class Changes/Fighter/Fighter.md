@@ -82,7 +82,7 @@ Even without vision, nothing can evade your sight. Your blindsight extends to a 
 
 Moreover, your attacks against creatures within this range can not have disadvantage.
 
-\pagebreak
+
 #### Dueling Mastery
 **Prequisite Fighting Style: Dueling**
 

@@ -49,7 +49,7 @@ You have resistance to radiant damage and when you cast a spell that deals fire 
 
 You shed bright light out to 30 feet and dim light for an additional 30 feet. While the light is present, any creature within 30 feet of you that hits you with an attack takes 1d6 radiant or fire damage (your choice).
 
-\pagebreak
+
 ### Celestial Resilience
 *(Re-written 10th level feature)*
 

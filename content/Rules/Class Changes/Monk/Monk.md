@@ -57,7 +57,7 @@ As a Monk, you gain the following class features
 - **Hit Points at 1st Level:** 8 + Constitution Modifier
 - **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per Monk level after 1st
 
-\pagebreak
+
 #### Proficiencies
 ---
 - **Armor:** *Light armor and Medium Armor*
@@ -134,7 +134,7 @@ Starting at 3rd level, while you are not wearing heavy armor or wielding a shiel
 #### Deflect Blow
 If you reduce the damage of a melee weapon attack to 0 and the target is Large or smaller, you can spend 1 Ki point to force the target to make a Strength saving throw against your Ki save DC. On a failed save, you can either push the target up to 5 feet away from you or knock it Prone.
 
-\pagebreak
+
 #### Deflect Missile. 
 If you reduce the damage of a ranged weapon attack to 0, you can catch the missile if it is small enough for you to hold in one hand and you have at least one hand free.
 
@@ -223,7 +223,7 @@ When you spend a ki point to use Flurry of blows as a bonus action, you can make
 
 When you spend a ki point to use Enduring Defense as a bonus action, **you can also take the Dodge action as a part of the same bonus action**.
 
-\pagebreak
+
 ### Tongue of the Sun and Moon
 *(Improved 13th level feature)*
 

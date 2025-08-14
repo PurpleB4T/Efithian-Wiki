@@ -11,7 +11,7 @@
 * **Mighty Swarm:** Unchanged
 * **Swarming Dispersal:** Unchanged
 
-\columnbreak
+
 ### Optional: Gathered Swarm
 *(Variant 3rd level feature)*
 

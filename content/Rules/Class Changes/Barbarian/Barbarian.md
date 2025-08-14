@@ -104,7 +104,7 @@ Beginning at 5th level, you can attack twice, instead of once, whenever you take
 
 Starting at 5th level, your speed increases by 10 feet and your **jump distance is doubled** while you aren't wearing heavy armor.
 
-\columnbreak 
+ 
 ### Instinctive Pounce (Optional)
 *(7th level feature)*
 

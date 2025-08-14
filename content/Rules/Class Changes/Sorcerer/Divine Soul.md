@@ -100,7 +100,7 @@ Once you use this feature, you can't use it again until you finish a short or lo
 
 When you cast a spell that targets a single creature, you can spend 2 sorcery points to end either one disease or one condition affecting it. The condition can be blinded, deafened, paralyzed, or poisoned.
 
-\pagebreak
+
 ### Empowered Healing
 *(6th level feature)*
 

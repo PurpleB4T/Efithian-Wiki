@@ -21,8 +21,8 @@
 
 # **Unicorns**
 > [!info|bg-c-purple]- Overview
-A Unicorn is a mysterious and majestic **magical beast** resembling a deer with a horn protruding from it's forehead. 
-Typically found in the feywild or deep within forests, most people have never seen one.
+> A Unicorn is a mysterious and majestic **magical beast** resembling a deer with a horn protruding from it's forehead. 
+> Typically found in the feywild or deep within forests, most people have never seen one.
 
 # Description
 ## Appearance 

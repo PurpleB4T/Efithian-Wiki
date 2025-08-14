@@ -8,9 +8,9 @@
 previous session | [[index\|Back Home]] |  next session 
 
 >[!info]
-**Current Location:** `=link(this.Current_Location)`
-**In Game Date:** `=this.In-Game-Date`
-**Session Date:** `=this.Date`
+> **Current Location:** `=link(this.Current_Location)`
+> **In Game Date:** `=this.In-Game-Date`
+> **Session Date:** `=this.Date`
 
 >[!summary]- Previous Session
 

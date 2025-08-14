@@ -133,7 +133,7 @@ Starting at 6th level, your connection to your draconic ancestor grants you a po
 
 * When you cast a spell that deals damage other than piercing, bludgeoning or slashing, **you can change that damage type into the one associated with your draconic ancestry**. Once you change the damage type of spell in this way, you can't do so again until you finish a long rest.
 
-\pagebreak
+
 
 ### Dragon Wings
 *(14th level feature)*
