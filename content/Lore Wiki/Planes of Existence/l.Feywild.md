@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Feywild","created":"2024-03-24T20:18:01.000+01:00","modified":"2025-08-12T19:00:34.063+02:00","tags":["Plane","Feywild"],"cssclasses":""}
+{"publish":true,"title":"Feywild","created":"2024-03-24T20:18:01.000+01:00","modified":"2025-08-14T08:24:52.263+02:00","tags":["Plane","Feywild"],"cssclasses":""}
 ---
 
 
@@ -9,7 +9,7 @@
 > ![[z-Assests/Pasted image 20240324201906.png]]
 > ---
 > ## Basic Information
-> | Info | - |
+> | Info | Info |
 > |--- | --- |
 > | Natives | [[Rules/Lineages/Elf]],  [[Lore Wiki/Species/Fey]], [[Rules/Lineages/Goblin]] |
 > | Shape and size | similar to the Prime Material Plane |
