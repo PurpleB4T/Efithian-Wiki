@@ -9,9 +9,9 @@
 
 
 >[!info]
-**Current Location:** [[1. Eranvale Campaign/Locations/Points of Interest/Forest of Tassare Amal\|Forest of Tassare Amal]]
-**In Game Date:** 16.05.1864 - 17.05.1864
-**Session Date:** 04.09.2022
+> **Current Location:** [[1. Eranvale Campaign/Locations/Points of Interest/Forest of Tassare Amal\|Forest of Tassare Amal]]
+> **In Game Date:** 16.05.1864 - 17.05.1864
+> **Session Date:** 04.09.2022
 
 >[!summary]- Previos Session
 > Dominique, Astra, Roofus and Novalee meet for the first time and find a first job.
