@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"The Flora of Eranvale","created":"2024-06-04T11:54:56.000+02:00","modified":"2025-08-12T18:58:20.815+02:00","tags":["#Literature"],"cssclasses":""}
+{"publish":true,"aliases":"The Flora of Eranvale","created":"2024-06-04T11:54:56.000+02:00","modified":"2025-08-14T10:37:28.146+02:00","tags":["#Literature"],"cssclasses":""}
 ---
 
 
